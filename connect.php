@@ -1,7 +1,7 @@
 <?php
     $host = 'localhost';
     $user = 'phpmyadmin';
-    $pw = '63qlfeld!';
+    $pw 
     $dbName = 'petfinder';
     $dsn = "mysql:host=localhost;port=3306;dbname=$dbName;charset=utf8"; 
 
