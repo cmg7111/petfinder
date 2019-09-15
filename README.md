@@ -7,9 +7,9 @@
 애완동물의 신상정보를 기반으로 다양한 기계학습 모델(Logistic Regression, SVM, K-neighbors, Random Forest, XGBoost)을 이용하여 입양 시기를 예측합니다.  
 
 #### 역할
-1） 데이터 전처리 （Python Pandas）
-2） 백엔드 서버 구성（AWS EC2, MySQL, Apache）
-3） 프론트엔드 제작 （HTML5, PHP, JS）
+1） 데이터 전처리 （Python Pandas）  
+2） 백엔드 서버 구성（AWS EC2, MySQL, Apache）  
+3） 프론트엔드 제작 （HTML5, PHP, JS）  
 
 ### System Architecture
 ![](https://github.com/cmg7111/cmg7111.github.io/blob/master/petfinder_architecture.png?raw=true)
